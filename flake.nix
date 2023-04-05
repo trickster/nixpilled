@@ -12,6 +12,10 @@
         path = ./python;
         description = "Python project";
       };
+      scala-cli = {
+        path = "./scala-cli";
+        description = "Scala CLI project";
+      };
     };
   };
 }
