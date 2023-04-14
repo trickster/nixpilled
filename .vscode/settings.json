@@ -3,5 +3,6 @@
     "nix.serverPath": "/home/user/.nix-profile/bin/rnix-lsp",
     "files.watcherExclude": {
         "**/target": true
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
