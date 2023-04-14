@@ -16,6 +16,10 @@
         path = ./scala-cli;
         description = "Scala CLI project";
       };
+      java = {
+        path = ./java;
+        description = "Java project";
+      };
     };
   };
 }
